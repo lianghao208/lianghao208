@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning service mesh
 - 👯 I’m looking to collaborate on cloud native related opensource projects.
 - 💬 Ask me about golang, kubernetes
-- 📫 How to reach me: 302824716@qq.com / royliang@tencent.com
+- 📫 How to reach me: royliang@tencent.com / roylizard3@gmail.com / 302824716@qq.com 
 
 <p align="center">
   <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
