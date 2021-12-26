@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-- 🔭 I’m currently working on kubernetes, docker, golang and devops 
-- 🌱 I’m currently learning service mesh
+- 🔭 I’m currently working on kubernetes, docker, golang and devops
 - 👯 I’m looking to collaborate on cloud native related opensource projects.
 - 💬 Ask me about golang, kubernetes
 - 📫 How to reach me: royliang@tencent.com / roylizard3@gmail.com / 302824716@qq.com 
@@ -24,3 +23,7 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=767676">
   <img alt="Java" src="https://img.shields.io/static/v1?style=flat&logo=Java&label=&message=Java&color=767676">
 </p>
+
+---
+
+<a href="https://kccncosschn21.sched.com/event/qBoU/superedgekubernetesyi-sui-zha-ji-superedge-promoting-kubernetes-to-the-edge-of-technology-decryption-attlee-wang-roy-liang-tencent?iframe=no" rel="kubecon 2021">![](./speaker-kubecon-cloudnativecon-china-2021.png)
