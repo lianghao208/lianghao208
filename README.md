@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-![](https://github-readme-stats.vercel.app/api?username=lianghao208&theme=buefy&show_icons=true&hide=stars)
+![](https://github-readme-stats.vercel.app/api?username=lianghao208&theme=buefy&show_icons=true&hide=stars&count_private=true&include_all_commits=true)
 <!--
 **lianghao208/lianghao208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
