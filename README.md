@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Kubernetes, Docker, golang and devops
 - 👯 I’m looking to collaborate on cloud native related opensource projects.
 - 💬 Ask me about golang, kubernetes
-- 📫 How to reach me: royliang@tencent.com / roylizard3@gmail.com / 302824716@qq.com 
+- 📫 How to reach me: roylizard3@gmail.com / 302824716@qq.com / royliang@tencent.com
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/lianghao208/lianghao208/master/img/wechat-qr-code.jpg"><img src="img/wechat.svg" alt="微信"></a>
