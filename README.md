@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
+CNCF Ambassador
+
+<a href="https://www.credly.com/badges/f6bf473d-217f-46d7-acb1-6bf232b29166/public_url" target="_blank">![](./cncf-ambassador-h1-2024.png)
+
+---
 KubeCon Speaker
 
 <a href="https://kccncosschn21.sched.com/event/qBoU/superedgekubernetesyi-sui-zha-ji-superedge-promoting-kubernetes-to-the-edge-of-technology-decryption-attlee-wang-roy-liang-tencent?iframe=no" target="_blank" rel="kubecon 2021">![](./speaker-kubecon-cloudnativecon-china-2021.png)
