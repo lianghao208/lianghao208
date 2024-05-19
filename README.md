@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 </p>
 
 ---
-CNCF Ambassador
+CNCF Ambassador & Certification
 
 <a href="https://www.credly.com/badges/f6bf473d-217f-46d7-acb1-6bf232b29166/public_url" target="_blank">![](./cncf-ambassador-h1-2024.png)
+<a href="https://www.credly.com/badges/ea69abad-7a36-4121-8e96-2aa49bbdf4c7/public_url" target="_blank">![](./cka-certified-kubernetes-administrator.png)
 
 ---
 KubeCon Speaker
