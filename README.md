@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 CNCF Ambassador & Certification
 
 <a href="https://www.cncf.io/people/ambassadors/?p=roy-liang" target="_blank">![](./cncf-ambassador-h1-2024.png)
+<a href="https://www.credly.com/badges/f65155ec-d7c6-46b9-9ca2-a97c8c1025ba/public_url" target="_blank">![](./kubestronaut.png)
 <a href="https://www.credly.com/badges/ea69abad-7a36-4121-8e96-2aa49bbdf4c7/public_url" target="_blank">![](./cka-certified-kubernetes-administrator.png)
 <a href="https://www.credly.com/badges/5bcb451e-1f63-4c84-975d-d3924da292fb/public_url" target="_blank">![](./cks-certified-kubernetes-security-specialist.png)
 <a href="https://www.credly.com/badges/88f5b10a-8b64-4e1d-807d-6ffcde5a8030/public_url" target="_blank">![](./ckad-certified-kubernetes-application-developer.png)
