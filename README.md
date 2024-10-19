@@ -40,7 +40,8 @@ CNCF Ambassador & Certification
 <a href="https://www.credly.com/badges/e32482db-613f-4b9b-8627-e1e6227c6174/public_url" target="_blank">![](./kcsa-kubernetes-and-cloud-native-security-associate.png)
 
 ---
-KubeCon Speaker
+KubeCon
 
 <a href="https://kccncosschn21.sched.com/event/qBoU/superedgekubernetesyi-sui-zha-ji-superedge-promoting-kubernetes-to-the-edge-of-technology-decryption-attlee-wang-roy-liang-tencent?iframe=no" target="_blank" rel="kubecon 2021">![](./speaker-kubecon-cloudnativecon-china-2021.png)
 <a href="https://kccncosschn2023.sched.com/event/1PTJn/ye-ge-daepkwok-deep-dive-kwok-shiming-zhang-daocloud-hao-liang-tencent?iframe=no" target="_blank" rel="kubecon 2023">![](./speaker-kubecon-cloudnativecon-china-2023.png)
+<a href="https://www.credly.com/badges/24305acf-923a-4223-9bed-d5aa6810c2ee/public_url" target="_blank" rel="kubecon 2024">![](./program-committee-member-kubecon-cloudnativecon-ind.png)
